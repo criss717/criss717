@@ -3,6 +3,12 @@
 
 - 🔭 I’m currently working on [Ge3kHub Shop](https://ge3k-client-team.vercel.app/)
 
+- 🌱 I’m currently learning **Django**
+
+- 👨‍💻 All of my repositories are available at [https://github.com/criss717?tab=repositories](https://github.com/criss717?tab=repositories)
+
+- 📫 How to reach me **7criss17@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cristian guzman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian guzman" height="30" width="40" /></a>
