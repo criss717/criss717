@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Mi Perfil</title>
-</head>
-<body>
-
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">A passionate fullstack developer from Colombia, but I live in Spain</h3>
 
@@ -19,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/cristian guzman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian guzman" height="30" width="40" /></a>
-    <a href="mailto:7criss17@gmail.com"><img align="center" src="ruta_a_tu_icono_de_gmail.png" alt="Gmail" height="30" width="40" /></a>
-    <a href="mailto:7criss17@gmail.com">7criss17@gmail.com</a>
+    <a href="mailto:7criss17@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" height="30" width="30" /></a>
+   
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
