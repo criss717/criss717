@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/cristian-guzman-bb5867233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian guzman" height="30" width="40" /></a>
-    <a href="mailto:7criss17@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/cristian-guzman-bb5867233/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian guzman" height="30" width="40" /></a>
+    <a href="mailto:7criss17@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" height="30" width="30" /></a>
    
 </p>
 
