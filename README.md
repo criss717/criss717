@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ge3kHub Shop](https://ge3k-client-team.vercel.app/)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my repositories are available at [https://github.com/criss717?tab=repositories](https://github.com/criss717?tab=repositories)
 
