@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">A passionate fullstack developer from Colombia, but I live in Spain</h3>
 
-- 🔭 I’m currently working on [agrobita](https://wwww.agrobita.es)
+- 🔭 I’m currently working on [Agrobita](https://www.agrobita.es)
 
 - 🌱 I’m currently learning **React Native y Astro**
 
