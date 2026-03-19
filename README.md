@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Agrobita](https://www.agrobita.es)
 
-- 🌱 I’m currently learning **React Native y Astro**
+- 🌱 I’m currently learning **Hacking web, linux y bash scripting**
 
 - 👨‍💻 All of my repositories are available at [https://github.com/criss717?tab=repositories](https://github.com/criss717?tab=repositories)
 
