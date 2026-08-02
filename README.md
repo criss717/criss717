@@ -59,6 +59,5 @@
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=criss717&show_icons=true&theme=tokyonight" alt="Stats de Cristian" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criss717&layout=compact&theme=tokyonight&hide_border=false" alt="Lenguajes más usados" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=criss717&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="170" />
 </p>
