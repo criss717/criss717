@@ -10,7 +10,7 @@
 ### 🚀 Sobre mí
 - 💥 **Mi portfolio:** [portfolio3d-two.vercel.app](https://portfolio3d-two.vercel.app/)
 - 🔭 **Proyecto actual:** Trabajando en [Agrobita](https://www.agrobita.es), una plataforma SaaS agrícola.
-- 🌱 **Aprendiendo:** Hacking web e Iot.
+- 🌱 **Aprendiendo:** Iot y ciberseguridad.
 - 👨‍💻 **Repositorios:** [Explora mis proyectos](https://github.com/criss717?tab=repositories).
 - 📫 **Contacto:** [7criss17@gmail.com](mailto:7criss17@gmail.com).
 
